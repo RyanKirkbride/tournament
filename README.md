@@ -5,11 +5,6 @@ This is a library of Python 3.5 functions which allows users
 to interact with a database that has a similiar schema to the
 one found in tournament.sql.
 
-Using The Program
------------------
-
-To run the program you will need an SQL database with the tables
-described by tournament.sql. Type 'python tournament_test.py' into a terminal window from the correct directory to verify that it passes any test cases you may have written.
 
 
 tournament.py
