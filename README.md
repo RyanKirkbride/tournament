@@ -27,8 +27,3 @@ The SQL statements to create a database that can interface with tournament.py.
 Creates two tables describing player and match information and one view of those
 tables that displays individuals players match information.
 
-
-tournament_test.py
-------------------
-
-Defines a set of test cases for tournament.py.
