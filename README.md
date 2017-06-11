@@ -2,10 +2,10 @@ Tournament Database
 ===================
 
 This is a library of Python 3.5 functions which allows users
-to interact with a database that has a similiar schema to the
+to create a database that has the same schema as the
 one found in tournament.sql.
 
-
+To create the database ensure you have all the correct python libraries installed and run tournament.py.
 
 tournament.py
 -------------
